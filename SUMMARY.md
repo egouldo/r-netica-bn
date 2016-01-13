@@ -2,4 +2,4 @@
 
 This is the summary of my book.
 
-* [section 1](section1/README.md)
+* [Chapter 1](chapter1.md)
