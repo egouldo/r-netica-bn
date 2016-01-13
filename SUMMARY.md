@@ -15,4 +15,4 @@ Documentation is a very important aspect of developing your BN that is essential
 
 We tend to build BN's in a piecemeal fashion; building an influence diagram of our domain, correcting the causal structure of the model, setting the levels of our nodes and parameterising them, maybe even building separate sub-models and joining them together to form one large network. 
 
-Following the initial construction, testing and evaluation is necessary: we might make changes to a part or whole of the model and wish to compare the different versions of them. However, this process goes against the grain of version control.
+Following the initial construction, testing and evaluation is necessary: we might make changes to a part or whole of the model and wish to compare the different versions of them. However, this process goes against the grain of version control-- which is extremely important and I encourage everyone who writes *any* code to VC!
