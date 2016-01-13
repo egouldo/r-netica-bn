@@ -11,4 +11,4 @@ This chapter describes any work-flows / best-practice procedures for saving / ac
 * Network Development
  
 
-Documentation is a very important aspect of developing your BN that is essential to ensuring reproducibility. Good documentation is also vital when working in teams, and also just for your own self -- thank me later. In this section I suggest systems for documenting decisions with respect to the design and instantiation of your model.
+Documentation is a very important aspect of developing your BN that is essential to ensuring reproducibility. Good documentation is also vital when working in teams, and also just for your own self -- thank me later. In this section I suggest systems for documenting decisions with respect to the design and parameterisation of your BN.
