@@ -6,6 +6,7 @@
 
 [BN Workflows with R and RNetica](workflows.md)
 This chapter describes any work-flows / best-practice procedures for saving / accessing / organising your work, as you iteratively develop your BN. This chapter addresses two key components of your work-flow:
+
 * Documentation
 * Network Development
 
