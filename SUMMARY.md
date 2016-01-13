@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Documentation](documentation/workflows.md)
+* [Documentation](workflows/documentation.md)
 * Network Development
 
