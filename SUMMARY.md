@@ -1,5 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Bayesian Network development](chapter1.md)
+* [Bayesian Network Development](chapter1.md)
+* []
 
